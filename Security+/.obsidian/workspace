@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Security+ Notes/Impersonation.md",
+            "file": "Security+ Notes/Influence Campaigns.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security+ Notes/Impersonation.md",
+                "file": "Security+ Notes/Influence Campaigns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,15 @@
   },
   "active": "6b89e306e4ed610e",
   "lastOpenFiles": [
+    "Security+ Notes/Influence Campaigns.md",
+    "Security+ Notes/Spam.md",
+    "Security+ Notes/Watering Hole Attacks.md",
+    "Security+ Notes/Hoaxes.md",
     "Security+ Notes/Impersonation.md",
-    "Security+ Notes/Firewalls.md",
-    "Security+ Notes/DoS.md",
-    "Security+ Notes/DNS Poisoning.md",
+    "Security+ Notes/Dumpster Diving.md",
+    "Security+ Notes/Data Injection.md",
     "Security+ Notes/DDoS.md",
-    "Security+ Notes/Bluejacking.md",
-    "Security+ Notes/Backdoors.md",
+    "Security+ Notes/Shoulder Surfing.md",
     "Security+ Notes/Adware.md"
   ]
 }
