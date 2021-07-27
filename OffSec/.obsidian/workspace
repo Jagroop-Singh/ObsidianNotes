@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "f8be8f180339b3ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3af5c9bb71701ae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "HashCat.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "038aaa3a9dc41cb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "127fd82195115c68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b962b424ac89dfe2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c375f79573897fd6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd20fef0eaf31e8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6b74198cb2d64f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56aebb9000da1ad4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HashCat.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b3af5c9bb71701ae",
+  "lastOpenFiles": [
+    "HashCat.md",
+    "Ghidra.md",
+    "Metasploit.md",
+    "Nikto.md",
+    "ExploitDB.md",
+    "Burpsuite.md",
+    "Nmap.md",
+    "WFuzz.md",
+    "Untitled.md",
+    "Gobuster.md"
+  ]
+}

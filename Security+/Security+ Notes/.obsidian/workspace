@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "5144d90cff86587c",
+    "type": "split",
+    "children": [
+      {
+        "id": "09539e88873df97b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Influence Campaigns.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57f57374ac2fd6e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "22608c73a5a42358",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bccd1d2b6d8bad27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f7f4eb7c6ebc48c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae9b4a539fb21cae",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa0cd4795082ac62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4602d754b09565c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Influence Campaigns.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "09539e88873df97b",
+  "lastOpenFiles": [
+    "Influence Campaigns.md",
+    "RATs.md",
+    "Ransomware.md",
+    "Spam.md",
+    "Phishing.md",
+    "Watering Hole Attacks.md",
+    "Untitled.md",
+    "Hoaxes.md",
+    "Shoulder Surfing.md",
+    "Dumpster Diving.md"
+  ]
+}

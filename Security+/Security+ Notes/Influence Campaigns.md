@@ -1,0 +1,2 @@
+# Influence Campaigns
+Information operations and warfare, also known as influence operations, includes the collection of tactical information about an adversary as well as the dissemination of propaganda in pursuit of a competitive advantage over an opponent.

@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "9b6d273f7f71f361",
+    "type": "split",
+    "children": [
+      {
+        "id": "749de71b090b8a0d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Games/Untitled.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4adc72b26549199a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a749001e42be535",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c165c422730783a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3db23a7815bb5b06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c64158f59afdab6",
+    "type": "split",
+    "children": [
+      {
+        "id": "35d813a9b887d1d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "423575be06802ef2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Games/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "749de71b090b8a0d",
+  "lastOpenFiles": [
+    "Games/Untitled.md",
+    "Untitled.md"
+  ]
+}

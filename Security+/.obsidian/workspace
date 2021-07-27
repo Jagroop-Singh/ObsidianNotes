@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "0cb3b6ef1563daf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b89e306e4ed610e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Security+ Notes/Impersonation.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55bafe7aec9b43cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b56f2c836188787f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f896986f9dfffb72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e95dd0a45289477",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b3d1ae144c104e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7732d6fb140ee76e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc7bfd8ad17e3c50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Security+ Notes/Impersonation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6b89e306e4ed610e",
+  "lastOpenFiles": [
+    "Security+ Notes/Impersonation.md",
+    "Security+ Notes/Firewalls.md",
+    "Security+ Notes/DoS.md",
+    "Security+ Notes/DNS Poisoning.md",
+    "Security+ Notes/DDoS.md",
+    "Security+ Notes/Bluejacking.md",
+    "Security+ Notes/Backdoors.md",
+    "Security+ Notes/Adware.md"
+  ]
+}
